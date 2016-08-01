@@ -5,7 +5,7 @@ Created on 2016-07-31 09:51:35
 '''
 
 from Tkinter import *
-from com.luckyrui.apitest.tkfront.menu import ATMenu
+# from com.luckyrui.apitest.tkfront.menu import ATMenu
 
 class ATHome(Frame):
     '''
